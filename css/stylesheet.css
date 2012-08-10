@@ -1,19 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Montaga|Raleway);
 
-html{color:#000;background:#FFF;}
-body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;line-height:1.5;}
-table{border-collapse:collapse;border-spacing:0;}
-fieldset,img{border:0;}
-address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
-li{list-style:none;}
-caption,th{text-align:left;}
-h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
-q:before,q:after{content:'';}
-abbr,acronym{border:0;font-variant:normal;}
-sup{vertical-align:text-top;}
-sub{vertical-align:text-bottom;}
-input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}
-input,textarea,select{font-size:100%;}
-legend{color:#000;}
+body {
+    color: #000;
+    background: #FFF;
+    line-height:1.5;
+    font-family: 'Montaga', serif;
+    font-size: 14pt;
+    text-align: center;
+    font-weight: 100;
+    display: block;
+    margin: 50px 50px 50px 50px;
+    width: 800px;
+}
+
+p {
+    display: block;
+    text-align: left;
+}
+
+
+p.lefttext {
+    float: left;
+    width:500px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 32pt; 
+    text-align: center; 
+    display: block;
+    text-shadow: 2px 2px 2px #757575;
+}
 
 /*
   Color scheme:
@@ -26,145 +44,46 @@ legend{color:#000;}
 
 /* General Styles */
 
-h2 {
-    font-size: 2em;
-    line-height: 1em;
-    //display: inline-block;
-    display: inline;
-    padding: 8px 16px;
-    vertical-align: text-bottom;
+
+img {
+    margin: 20px 20px 20px 20px;
+    display: block;
+    /* box-shadow: 2px 2px 3px #888;*/
+    padding: 5px 5px 5px 5px;
 }
 
-img.floatLeft {
+#headshot {
     float: left;
-    margin: 10px;
-    width: 175px;
-
+    width: 150px;
 }
-img.floatoo {
-    float: left;
-    margin: 10px;
-    width: 175px;
 
-}
-img.floatRight {
+#votizen_logo {
     float: right;
-    margin: 20px;
     width: 100px;
 }
 
-body {
-  background-color: #fff;
-  font-family: Palatino, Helvetica, sans-serif;
-      padding: 80px 80px;
-
-}
-
-#content p,
-#content table {
-  display: block;
-  font-size: 1.2em;
-  margin: 0 0 1em 50px;
-  width: 50%;
-}
-  #content table td {
-    padding-right: 37px;
-  }
-
-.clr {
-  clear: both;
-}
-
-.bordered {
-  border-style: dotted;
-  border-color: #bbb;
-}
-
-/* Layout */
-
-#wrapper {
-  margin: 25px auto;
-  width: 960px;
-}
-
-#large_logo {
-  display: block;
-  margin: 0 auto;
-}
-#small_logo {
-  width: 250px;
-}
-
-#header {
-  border-width: 0 0 1px 0;
-  margin-bottom: 15px;
-}
-
-#content {
-  margin-left: 50px;
-  padding-bottom: 30px;
-}
-
-#footer {
-  border-width: 1px 0 0 0;
-  color: #8ea9c9;
-  margin: 25px 0 25px 50px;
-  padding: 40px;
-}
-  #footer .copyright {
-    float: right;
-    text-align: right;
-  }
-  #footer .column {
+#cal_logo {
     float: left;
-    width: 20%;
-  }
-    #footer .column h2 {
-      color: #de3a39;
-      font-weight: normal;
-    }
-    #footer .column ul {
-      margin: 10px 0 0 15px;
-    }
-    #footer .column a,
-    #footer .column a:visited {
-      color: inherit;
-      text-decoration: none;
-    }
-    #footer .column a:hover {
-      text-decoration: underline;
-    }
-
-/* Page-specific */
-
-/* Index */
-
-#big_vision {
-  font-size: 1.5em;
-  margin: 75px 0;
-  text-align: center;
+    width: 100px;
 }
 
-#big_cta {
-  text-align: center;
+#capitolix_logo {
+    float: right;
+    width: 150px;
 }
 
-/* Breadcrumbs */
-
-#breadcrumbs {
-  color: #bbb;
-  font-weight: normal;
-  margin-bottom: 50px;
+#quickmint {
+    float: right;
+    width: 175px;
 }
-  #breadcrumbs a,
-  #breadcrumbs a:visited {
-    color: inherit;
-    text-decoration: none;
-  }
-  #breadcrumbs a:hover {
-    text-decoration: underline;
-  }
-  #breadcrumbs span {
-    color: #33548d;
-  }
 
+#usa_logo {
+    float: right;
+    width: 175px;
+}
+
+#potus {
+    float: left;
+    width: 200px;
+    box-shadow:
+}
