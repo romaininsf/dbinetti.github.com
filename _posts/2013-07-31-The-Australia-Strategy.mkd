@@ -1,0 +1,13 @@
+---
+layout: post
+title: The Australia Strategy
+date: 2013-07-31 05:57:29 UTC
+updated: 2013-07-31 05:57:29 UTC
+comments: false
+---
+
+The Australia Strategy will be familiar to anyone who has played the classic board game ""Risk."" For those that haven't, I'll offer a brief explanation of the game and why the ""Australia Strategy"" is a winner more often than not.
+
+The object of Risk is world domination (sounds like a startup already!) The board is a map of the world, divided into territories, each of which is occupied by a player through armies he or she controls. The armies battle each other and the winner takes both territories. Those that control every territory of a continent get a certain number of additional armies at the beginning of each turn. The larger continents produce more armies per turn; however, larger continents means more area to defend. Australia, as a smaller, isolated area, produces the fewest number of armies per turn but only has a single way in or out.The core of the Australia strategy is one of conservation of resources. Rather than try to take and hold big continents, the player hunkers down Down Under and focuses all his energy on maintaining control of just Australia with its single point of entry. (And, as we all know from watching movies, defending a choke point is a piece of beefcake.) Then, while other players weaken from the constant skirmishing, the Aussie merely gathers strength and then comes roaring out with a huge army that mows down everything in its path.
+How does this relate to startups? At the start of the game, there is a wide-open playing field. Think a brand new market opened due to new technology. Entrants rush in to stake their claim, and all too often they try to grab the most territory. Biggest market means biggest revenue, right? Sure, but it takes a great deal of energy to hold those gains. Constantly harassed by other entrants as well as established players, people wind up fighting on several fronts and spread themselves too thin. Those that start off with a clear target and build up their capabilities and resources have a much easier task. Eventually everyone needs to branch out, of course, but only after they've built such a huge arsenal that they know they have the clear advantage. (For a real-world example of this, just think about Amazon.com: Earth's Biggest Selection.)
+Here's the Rule: when starting a company in a wide-open market, always pick Australia first. You don't want the biggest market, you want the market that easiest to defend. Worry about conquering the entire world after you've conquered at least a small area first."

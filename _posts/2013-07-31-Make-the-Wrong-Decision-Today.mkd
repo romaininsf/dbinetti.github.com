@@ -1,0 +1,12 @@
+---
+layout: post
+title: Make the Wrong Decision Today
+date: 2013-07-31 05:56:47 UTC
+updated: 2013-07-31 05:56:47 UTC
+comments: false
+---
+
+Make the wrong decision today rather than wait for the right decision to reveal itself.  This Rule is one that is particularly difficult for big company types to grok, since it runs contrary to the process employed in most larger organizations.
+In a big company, Product Managers collect mountains of data, look at historical trends, conduct surveys, assemble focus groups, etc. while simultaneously socializing options throughout the organization via countless meetings. This process continues until enough people have a stake in the outcome that the decision is obvious. Call it consensus-building, or getting buy-in, or CYA, or whatever term you prefer. It's an effective way to reach conclusions when you have the information and the time to engage in the process.
+But information and time are two things that startups don't have. So any process based on reaching conclusions will be an exercise in futility. Instead, you must make a decision that has a great chance of being wrong. Make it anyway.People that lead startups know that wrong decisions must be made along the way. They don't avoid mistakes -- they embrace them. And before you quip that I'm advocating incompetence as a business strategy there is one important qualification: they must be new mistakes to be valuable. Old mistakes mean doing the same thing and hoping for different results. New mistakes mean new information about the market that no one else has.
+So go ahead and follow the Rule: make the wrong decision today. Sure, it will be wrong, but the only sure way to never be wrong is to never make a decision in the first place....

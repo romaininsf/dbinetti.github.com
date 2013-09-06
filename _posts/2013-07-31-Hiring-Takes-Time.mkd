@@ -1,0 +1,13 @@
+---
+layout: post
+title: Hiring Takes Time
+date: 2013-07-31 05:56:52 UTC
+updated: 2013-07-31 05:56:52 UTC
+comments: false
+---
+
+Most startups approach hiring as follows: Through a series of resume scanning and perfunctory 10-minute phone-screens a candidate who seems the least objectionable is brought into the office. He or she is then subjected to a day of sequential one-hour interviews with the team, the first fifteen minutes of each consisting of pleasantries. The interviewers are not coordinated and unprepared, so each asks roughly the same questions that they were asked at their own interview, giving the candidate lots of practice before the final interviewer (usually the hiring manager.) Then, the team convenes to make snap judgements based on a groupthink assessment of the thin veneer the candidate presented. Those that pass this robust gauntlet are made an offer.
+This happens because most people view the hiring process as an interruption of otherwise important activities. "Man, I've got to finish this product roadmap. What is the least amount of time I can spend with this person and still seem like I care?" Sound familiar?
+This is incredibly short-sighted. For startups in particular -- where resources are scarce and systems are in constant development -- the people mean everything. But to be truly effective, hiring takes time. Not 'quality time', but time-time; a real investment to dig below the surface and determine what's underneath. In a series of hour-long interviews that will never happen. It can't. Any quality candidate can get a patter down for an hour -- but will they really mesh with the team? Can they do what they say? How do they think? An hour is just way, way too short a time to figure out anything worth knowing.
+It's like a first date: everyone is on his or her absolute best behavior. All smiles, all laughing, everyone is happy. But by the third or fourth date any pretense becomes tougher to maintain -- and that's when we begin to learn if there's a good fit.
+Here's the Rule: Hiring Right Takes Time. Make it a priority -- as much of a priority as you would the product plan, or writing code, or closing a big deal, or preparing the Board Slides. It as least as important -- if not more so -- than any of those other activities. If you're in a startup you're about to hire anywhere from 5 - 20% of your entire workforce; set aside an entire day for each individual interview. And if you think you don't have a day to spare, just think about the months you'll spend fixing it if your blink judgement is wrong....

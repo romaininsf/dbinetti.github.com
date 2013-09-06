@@ -1,0 +1,12 @@
+---
+layout: post
+title: Just Say No
+date: 2013-07-31 05:57:08 UTC
+updated: 2013-07-31 05:57:08 UTC
+comments: false
+---
+
+Most startups are created as a result of something new -- a new technology, new business climate, new market -- something that is fundamentally opening up possibilities that simply didn't exist before. Entrepreneurs are those that see no limit to those possibilities and boldly charge into the unknown, seeking fame and fortune -- and I mean that in a bad way.
+Oh don't get me wrong: I like possibilities, and I like boldly charging, and I certainly like fame and fortune. But to survive startups need to focus scare resources to maximal effect, and learning to "Just say No" is critical to that process.You'll be saying "No" to engineers, who are eager to create new technology but less excited about documenting their code; you'll be saying "No" to salespersons who have a big-name company that wants you to port your product for a legacy system for big-bucks; you'll be saying "No" to your VCs, who will have all sorts of great partner ideas themselves (not to mention ways to promote them.)   In short, you'll be saying "No" to a lot of people who really want you to say "Yes" -- including your own inner visionary. To make this easier, be sure you have a framework that helps you make these decisions.
+Here's an example: let's say you're a company that has come up with a way to design custom running shoes over the internet. You get funding, and start to ramp up production. You've also taken the time to set a framework that says, "We see a market as a group of persons that reference each other when making decisions. Thus, only runners are in our market, and we're not going into a second market until we have 20% penetration in the first." If you've done this, then when your Board Member VC says, "You know, this would be awesome for my daughter, who is a dancer. You could make custom dance shoes too," you'll know to say No and have something to back it up -- as opposed to the feeble "That's a great idea -- we'll look into it" that happens probably 90% of the time.
+I'm obviously simplifying what are in reality very complicated decisions. But too often we say "Yes" because it's easier than saying "No". We don't want to disappoint, we don't want to close off possibilities, we don't want to pass up on any opportunity. If this is you, then you should probably find another line of work (politics, perhaps?) because you won't last long scattering your resources among the battlefield. Here's the Rule: Just say No.

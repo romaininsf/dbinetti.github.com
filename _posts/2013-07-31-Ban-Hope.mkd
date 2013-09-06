@@ -1,0 +1,13 @@
+---
+layout: post
+title: Ban Hope
+date: 2013-07-31 05:57:24 UTC
+updated: 2013-07-31 05:57:24 UTC
+comments: false
+---
+
+There has been a great deal of talk about "Hope" these days, both audacious and otherwise, and given the economic and political climate I certainly can understand why. Hope as a noun is an incredibly powerful emotion that you'll need when times are tough. That said, when used as a verb hope is deadly. Why? Because hope is what you do when you don't have a plan.
+How many times have you heard something similar to this: "We hope to break even in six months", or "Hopefully this new product will reverse the slide in our sales figures", or "I'm hoping to close this deal in the next two weeks." And how many times did those things actually happen as hoped for?
+The verb hope should be banned from your startup. Can you imagine Dwight Eisenhower saying, "We'll land at Normandy. I hope that's the right place," or Washington saying, "Hopefully we'll make it across the Delaware." Ugh. Whenever you use hope as a verb, you're essentially saying, "That's it. I'm done. I don't have anything more."
+When you have a plan, you can outline the risks and rewards and make a calculated decision. Often there will be a huge variance associated with an equally huge expected value -- but that's OK. Entrepreneurs should have a high risk-tolerance; after all, it's what will eventually make them rich. But hope has absolutely zero to do with this decision.
+Here's the Rule: Never use Hope as Verb. Hope might be great politics, but for startups it's deadly.

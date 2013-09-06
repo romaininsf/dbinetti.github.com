@@ -1,0 +1,12 @@
+---
+layout: post
+title: Marginalize Yourself
+date: 2013-07-31 05:56:09 UTC
+updated: 2013-07-31 05:56:09 UTC
+comments: false
+---
+
+I remember a ways back I was consulting for a company and the CEO was determining whether the main (and only) product should include hardware as opposed to being software only.  It wasn't clear which would be more readily accepted by the marketplace, but the reason he gave for considering hardware was what prompted this post.  "Including hardware means that we have higher topline revenue, which gets us to 100M faster."  Uh, sure, boss.  Whatever you say. Lord knows I should have quit that very day.
+$100M is, of course, the magic revenue number you need to justify your Series A investment (at least it used to be before the VC model broke.)  And the "think big" approach is really good for big companies with lots of resources.  But for startups, margins matter. There's a trap here, of course.   When big-company types hear "margins" they think "economies of scale".   So instantly it's a vision of massive factories pumping out millions of widgets which drives the cost and voila -- margins!  But as a startup you don't have a clue whether or not anyone is going to buy your widget at all (let alone have the capital for these factories), so you need to keep production to a minimum until you figure that out.
+This assumes of course that you're looking to build a business rather than simply maximize your post-money valuation. When focusing on a new opportunity, look closely at the margins.  (Also look critically at sales cycles and customer acquisition costs; topics for later posts!)  Having good initial margins leads to many good things:  It means you don't need a huge capital investment with which to begin.  It means you can afford to iterate and adapt to the market more rapidly.  It means you can grow really, really fast.  It reduces the variance of your gross revenue equation which shrinks the overall risk.  And, most important, it means that you'll learn to live on less, which will make you incredibly productive, resourceful, and ingenious -- skills that produce all sorts of fringe benefits when your  marketplace becomes competitive.
+Here's the Rule:  Marginalize Yourself.  You may not always have this choice, but take it when you do.  Remember, the alternative is to lose money on every deal and make it up on volume....

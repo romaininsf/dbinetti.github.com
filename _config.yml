@@ -1,3 +1,5 @@
 name: David Binetti
 markdown: redcarpet
 pygments: true
+permalink: none
+timezone: America/Los_Angeles

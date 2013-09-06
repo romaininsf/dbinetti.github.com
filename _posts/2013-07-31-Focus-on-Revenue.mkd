@@ -1,0 +1,14 @@
+---
+layout: post
+title: Focus on Revenue
+date: 2013-07-31 05:56:57 UTC
+updated: 2013-07-31 05:56:57 UTC
+comments: false
+---
+
+So I'm looking at the cover of February's Entrepreneur magazine and lo and behold I see yet another company focused on energy conservation. I'll not dwell on the fact that they are breaking the "PR is Not the Goal" rule by putting themselves on the cover without a product to sell (quote from their site: "We... expect the product to become regionally available in the near future"), and instead will discuss a more fundamental rule they are breaking that relates to their value proposition and resultant business model.
+Greenbox 'produces' (and I use that lightly since you can't actually buy it) software for residential energy management. The idea is that once you outfit every appliance, clock, radio, television, washer, dryer, iron, thermostat, lighting fixture and every other mains-powered device in your house with a wireless sensor (no mention of how that is supposed to happen) then you can manage your energy consumption through their personalized web portal in order to save money. For instance, Greenbox says on their homepage, "Moving your thermostat two degrees can save $18 this month."
+Assume for the moment that people are incapable of adjusting their thermostat without the aid of Greenbox. It means that in an average year you can save $216 on heating bills using their technology. So, how much would you spend to save $216 a year? In an established market you'd need to see about 10X return on any cost-saving action before you'd consider a purchase. So, they'll need to price this product at about $20 per household to have people even begin to think it's worth buying. Not exactly a huge market.
+But wait -- it gets better. What happens when you actually get people to buy your stuff and start saving them money? They either want to save more (which you really can't do) or they get accustomed to it and come to expect it (meaning they are no longer willing to pay for it.) Either way it's a dead-end.
+The fundamental flaw is that by focusing your value proposition on cost savings you are setting yourself up against an asymptote. You can't save more than 100%, and every marginal dollar in the market becomes increasing difficult to "save". So your business model has a finite market with reducing returns to scale. Yummy!
+Here's the Rule: Focus on selling the promise of new revenue opportunities, not cost-savings. New revenue opportunities are at least theoretically limitless.

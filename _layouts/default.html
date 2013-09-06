@@ -3,30 +3,32 @@
   <head>
     <meta charset="utf-8">
     <title>{{page.title}}</title>
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="Lean Startup expert and consultant.  Helps organizations
+    of all sizes develop sustainable business models.">
     <meta name="author" content="David E. Binetti">
     <meta name="copyright" content="&copy; 2013, David E. Binetti">
     <meta name="robots" content="noindex, nofollow">
-
-    <link rel="stylesheet" href="static/css/bootstrap.css">
-    <link rel="stylesheet" href="static/css/bootstrap-responsive.css">
-    <link rel="stylesheet" href="static/css/font-awesome.css">
-    <link rel="stylesheet" href="static/css/style.css">
     <link rel="shortcut icon" href="static/ico/favicon.ico">
-
+    <link rel="stylesheet" href="static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/main.css">
   </head>
 
   <body>
 
-    {{content}}
+    <div class="header" id="header">
+        <a href="/">David Binetti</a>
+    </div>
 
-    <script type="text/javascript" src="static/js/jquery-1.8.2.min.js"></script>
+     {{content}}
+
+    <div class="footer" id="footer">
+        &copy; 2013, David E. Binetti, All Rights Reserved
+    </div>
+
+    <script type="text/javascript" src="static/js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="static/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="static/js/modernizr.js"></script>
-    <script type="text/javascript" src="static/js/waypoints.min.js"></script>
-    <script type="text/javascript" src="static/js/jquery.easing.1.3.js"></script>
     <script type="text/javascript" src="static/js/main.js"></script>
+
   </body>
 </html>

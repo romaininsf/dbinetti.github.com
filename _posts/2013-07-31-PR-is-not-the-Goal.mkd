@@ -1,0 +1,18 @@
+---
+layout: post
+title: PR is not the Goal
+date: 2013-07-31 05:57:04 UTC
+updated: 2013-07-31 05:57:04 UTC
+comments: false
+---
+
+This is one of the most obvious rules, yet it is broken with such regularity and ferocity that you can't help but feel that every company that breaks it does so with the intention of disproving the rule itself.This rule is broken when:
+    - You select a PR firm to help define your message/product.
+    - You look to tie your product launch to a column by Walt Mossberg/Kara Swisher/John Markoff etc...
+    - You look at topline website traffic as a useful metric.
+    - You spend a penny on anything Marcom before you have a product ready for sale.
+
+Remember, the goal is to find customers willing to give you money under a sustainable and scalable model. So yes, getting the word out to those customers is important -- but not before you've proved the "sustainable and scalable" part.
+Take Cuil, for example. In the middle of 2008, Cuil engaged in a massive PR blitz. News of their launch reached more than 100mm internet users. They were incredibly successful in getting people to know about them. So, what was the problem? Well, they stunk. The site crashed, results were lame if not obscene, and they pretty much went downhill from there.
+Here's the Rule: PR is a tool to reach the goal, not the goal itself. The goal is making money, not getting ink. Ink can help you get money, but only under the right conditions -- usually requiring clear products, distribution channels and a mainstream customer base. Early-stage startups generally have NONE of these things. But they do have VCs that loooooove to see their portfolio companies in print. Coincidence? Hmmmm....
+Cuil screwed this rule up so badly that it's probably a rare instance of an unrecoverable error due to a single mistake. But they must be happy, because BusinessWeek listed it as a "Most Successful Startup in 2008". If only that honor came with a $300M prize so they could exit at a decent multiple.....

@@ -1,0 +1,76 @@
+Tips for Creative Job Posts
+
+Finding high-quality engineering talent remains a huge challenge for startups.  This is particularly true for early stage companies where the risks remain high and competition is fierce.  The key to thriving in such environments is to ensure you are thinking creatively about the hiring process and making use of the same tools you're probably using to help sell your business.
+
+At Votizen we started our employee search by implementing much of what would be considered "standard practice": we created a job description, posted it on our site, contracted with some recruiters and posted to job boards.  Yet after several months of fruitless results we realized that this approach was not going to work and started to think creatively about how better to attract talent.
+
+As one such example, we decided to drop our original job req in favor of a presentation deck on Slideshare.  The deck conveyed all the original information about the position but did so in a far more compelling manner on a platform designed for sharing.  In the week since the deck was released our job-related page views and   pipeline increased 10-fold with a far higher caliber of candidates overall.  Moreover, the normal noise associated with job postings (such as solicitations for consulting firms, relators and recruiters) has been surprisingly absent, keeping distractions to a minimum.
+
+From that experience we'd like to share six quick tips that we learned when producing this deck.
+
+The Medium Matters
+Job reqs are tedious, boring, and uninspiring; using them conveys the same about the job.  Instead, choose a different vehicle that shows the forward-thinking nature of your organization.  Slideshare is one such example, but it could also be a thought-provoking puzzle, YouTube video, or Github open-source project.
+
+Be Visual
+Don't rely on text to describe a position.  Instead, show pictures of the work area, desk, computer, colleagues, the coffee shop down the road, etc.  Give candidates the ability to visualize themselves -- literally -- in the role.
+
+Sell the Role
+Typical job postings look like the software system requirements:  "requires 10 years of MySQL, 4 Years of Python and a Pentium III."  But to sell the role you need to do more than tack on "generous benefits" at the end of a laundry list of requirements.  Instead, view the role as a critical deal that you need to close and build the content from that perspective.
+
+Make Sharing Easy
+Take specific pieces of the content that you think are particularly shareworthy and make it easy for the person to do just that.  We took certain phrases and designed them specifically to be shared by the reader and then put "Tweet This" links nearby that pre-populated the content with tracking links.  If you are forcing the reader to cut and paste then you are making them work too hard.
+
+Go for Smiles
+Being funny or clever goes a long way into making your content engaging and vastly increases the chances of it being shared.  Be sure to stay on message -- shoehorning in something that doesn't fit just to be cute might hurt more than help -- but see if you can produce smiles in the process of explaining the benefits.
+
+Iterate, Test, Learn, Repeat
+Lean startup principles can apply to hiring too.  We've released three versions of our deck, each time testing the results and getting feedback from 'customers' (candidates) on what worked and what didn't.  Don't simply "fire and forget"; you'll miss important opportunities to improve your conversion rate.
+
+By thinking creatively about how to post your jobs you can cut through a very competitive market and make yourself stand out to find the best talent. You can find the deck itself here: http://www.slideshare.net/votizen/engineering-job-at-votizen
+
+
+
+# Tips for Creative Job Posts
+
+Finding high-quality engineering talent remains a huge challenge for startups.  The key to thriving in such environments is to ensure you are thinking creatively about the hiring process and making use of the same tools you're probably using to help sell your business.
+
+Here are quick tips that dramatically improved our hiring at Votizen.
+
+## The Medium is the Message
+Job reqs are tedious, boring, and uninspiring; using them merely conveys the same about the job.  Instead, choose a vehicle that shows the forward-thinking nature of your organization.  At Votizen we produced a high quality Slideshare presentation (link) but other companies have puzzles (Google), video (Twitter) and (other example).
+
+## Be Visual
+Don't rely on text to describe a position.  Instead, give candidates the ability to visualize themselves -- literally -- in the role.  Show pictures of their desk, computer, colleagues, and local environs like coffee shops, shopping, and commute options.
+
+## Sell the Role
+Typical job postings look like system requirements from a copy of Windows XP:  "requires 10 years of MySQL, 4 Years of Python and a Pentium III."  This approach simply views it from your perspective and not .  If  you viewed the job prospect as a critical client that you had to close, how would you position your collateral, ritical deal that you need to close and build the content from that perspective.
+
+## Be Meme-orable
+Being funny or clever goes a long way into making your content engaging and vastly increases the chances of it being shared.  Be sure to stay on message -- shoehorning in something that doesn't fit just to be cute might hurt more than help -- but see if you can produce smiles in the process of explaining the benefits.  We included the phase "Salary to live on; equity to retire on" in our deck, which was shared broadly.
+
+## Ease Sharing
+Take specific pieces of the content that you think are particularly share-worthy and make it easy for the person to do just that.  For instance, we included a simple "Tweet This" link right next to the above phrase that pre-populated the content with tracking links.  And by pre-populated I mean the entire content was URLencoded so that it was single click to post.  If you are forcing the reader to cut and paste then you are making them work too hard.
+
+## Build, Release, Measure, Learn
+Lean startup principles can apply to hiring too.  We've released three versions of our deck, each time testing the results and getting feedback from 'customers' (candidates) on what worked and what didn't.  Don't simply "fire and forget"; you'll miss important opportunities to improve your conversion rate.
+
+## (Ab)use Recruiters
+When a startup announces funding they are typically bombarded with cold calls from recruiters, which seem either 1) a tempting solution to the hiring challenge, 2) a constant annoyance to be ignored.  But I saw them instead as a valuable distribution channel to be exploited.  Rather than contact with one or ignore them all, we simply produced a simple agreement with standard recruiting terms and added it to our site along with our normal information packet.  Recruiters could simply e-sign the form and start sending us candidates.  We occasionally would receive high-quality candidates this way, but mostly we wanted to have dozens of recruiters all spreading our message throughout their networks.  We got to spread our message for free, and had a zero-touch way to handle all those cold-calls.
+
+## Cap Salary
+Wait, what?  Cap the salary as a recruitment technique?  You bet.  This is Peter Thiel's brainchild employed at PayPal, and used successfully in many companies since.
+
+## Transparency
+Engineers like clear and deterministic processes.  That's why they became engineers.  So
+
+## Speed, Speed, Speed
+
+## Speed != Easy
+
+
+## Mission Driven
+
+## Go Where the Talent Is
+
+
+By thinking creatively about how to post your jobs you can cut through a very competitive market and make yourself stand out to find the best talent. You can find the deck itself here: http://www.slideshare.net/votizen/engineering-job-at-votizen

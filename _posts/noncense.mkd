@@ -1,0 +1,42 @@
+# Noncense
+
+I hate logging in to sites.  Hate it.
+
+I'm sure I'd hate it even more were someone to get into my bank account and clean me out, but somehow identity theft always struck me as a manufactured crisis; something concocted and amplified by marketers more than an actual pervasive problem.
+
+In the end, a username/password authentication scheme relies on a core assumption:  a user can recall a given username/password combination for a given context.  Sounds simple in theory, but in practice it is a very difficult thing to do, particularly for infrequently accessed sites.  In addition, webmasters in their mind-numbingly paternalistic fashion are wont to do all sorts of really irritating things: like require revolving passwords, bizarre uppercase/lowercase combinations, numbers, letters, and things that are neither numbers nor letters  -- and not too many of any one thing in a row.  Oh, and you can't use any password you've used before.  Then, you need to try to remember the username that you used.  But was that a login username, or an email?  And which email, work, home, or the email you had two years ago when you signed up?  Add in Facebook, Twitter, and Google authentication schemes and the problem gets worse still.  And when you fuck it up, as you inevitably will, you are told the infuriating "incorrect username/password."  Well, which is it you stupid fuck!?  And to make things worse they mask the password entry, so that you can't even tell what you entered.  Was it a typo, or the wrong password?  Who knows?
+
+And all of these problems are hugely magnified on mobile devices. Typing in the 3X2 matrix of all possible username and password combinations becomes a day-long exercise in frustration one character at a time.  And thank God they mask the password input!  I can't tell you how many times I've been worried about someone poking their head in the 18 inches between me and my phone without me seeing them.
+
+In the end the pattern is the same: you wind up requesting a new username/password, which shows you that you -- again, for the eighth time this month -- forgot that on that particular service you needed to signup with a 123 after your username because someone had already taken your usual name.
+
+This is a source of endless frustration.  In fact, I can't think of a single other thing that irritates me on a more regular basis than this scenario playing itself out over and over.  The core problem is, of course, that we can not recall from memory our usernames and passwords.  So let's not use them.  There's a simpler way, in three steps:
+
+Require a mobile phone as username.
+For the password, use a nonce (an ephemeral password that automatically expires and can be used only once.)
+Deliver the nonce on demand through that cell phone, preferably over SMS.
+
+Now I know you're thinking, "wait, this sounds like two-factor authentication, been around for years.".  But I'm actually suggesting something quite different.  Two-factor authentication requires you set up a username and password separately in advance, and the multi-factor is merely added protection.  But I'm actually suggesting that there be no registration process at all, period.  Want to access the service?  Provide your phone number and boom, you're done.
+
+So the process is frighteningly simple.  Go to a website, enter your phone and click Send.  The website texts you a simple code, which you enter in real time.  That's it.
+
+Look, I'm not trying to solve a security problem.  I'm trying to solve a login/registration problem.  And for you this translates into a support and ultimately a retention problem.  No, I don't expect that my bank will be adopting this method anytime soon, but will I really lose sleep worrying that my ICANHASCHEEZBURGER account will be hijacked?
+
+And when you think about it, account attacks are a result of someone figuring out your password because you, like 99% of the rest of humanity, use the same password for nearly every account you have.  So if one of these accounts get compromised, or you are the victim of a phishing attack, or the security is lax at one -- just one -- of the dozens of services you use, then you're completely compromised throughout your network.
+
+This approach relies on a different set of assumptions than standard username/password credentials.
+
+First, you have one, and only one, mobile phone number.  Most everyone has a cell phone, and very few have more than one (but even those who do have more than one can juggle the numbers in their mind, unlike email.)
+
+Second, you have your cell phone on your person when you want to login, and
+
+Third, you can reliably receive a text in a short enough time to not be frustrated.
+
+Notice that all three conditions are true ipso facto if you are trying to access a site via mobile.
+
+The very obvious risk here is that if you lose your phone (or leave it even temporarily somewhere like your desk at work) then you grant effective access to anyone who has that phone and knows your number.  But those same conditions would allow someone to reset a password, have it sent to your email, and gain access in effectively the same way.  And this could be effectively countered with a passcode on the phone itself, if you wanted to employ it.
+
+You need to worry about the limitations of pseudo-randomness, and are largely trusting tha
+
+
+I've built a quick demonstration of this approach

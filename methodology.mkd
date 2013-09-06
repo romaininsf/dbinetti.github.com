@@ -1,0 +1,18 @@
+---
+layout: post
+title: Lean Startup Methodology
+---
+
+## Methodology
+
+### Assessment
+The assessment stage determines the overall applicability of the Lean Startup approach to the organization. This output is a preliminary recommendation on the appropriateness of using Lean to achieve the client goals
+
+### Baselining
+Baselining sets the Innovation Accounting framework from which progress will be measured. It is from this data that you'll learn whether it is time to persist in current strategy or pivot to another model.
+
+### Build-Measure-Learn
+The core of the Lean Startup approach is the Build-Measure-Learn cycle. We'll release MVPs, watch the results, and learn from customers to acheive a sustainable and scalable business model.
+
+### Handoff
+Throughout each engagement care is taken to observe proper change management principles so that the Lean Startup approach becomes a permanent part of your organization's culture.
