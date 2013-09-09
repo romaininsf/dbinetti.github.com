@@ -1,0 +1,7 @@
+---
+layout: post
+title: turnover-and-product-planning
+---
+
+Like politicians kicking the can down the road, watch the average product release cycle time and the turnover for the same period.
+

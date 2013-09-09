@@ -40,3 +40,49 @@ You need to worry about the limitations of pseudo-randomness, and are largely tr
 
 
 I've built a quick demonstration of this approach
+
+
+
+mobile phone number as natural key
+
+plus nonce
+
+signals and SNS?
+
+
+
+how could the phone-based approach fix the username/password problem?
+don't solve the security problem -- solve the convenience problem.
+
+
+Tv place. Mobile person
+
+Privacy as cb analysis
+
+Fb. Get over it. 
+
+Big data to personal
+
+Search terms google ad words
+
+address books as social graphs.  
+
+Find out how accurate your contact list is
+
+Have people keep it up to date for you
+
+Christ,as card effort
+
+ specialized reports on the people you know.  the "alumni newsletter" arriving daily.
+
+
+Check and see what phone numbers in common
+
+Who has the most?  
+
+Preferences of who and how you want to be called
+
+Extend the email infrastructure to phones and SMS
+
+
+
