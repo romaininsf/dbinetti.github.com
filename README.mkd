@@ -4,20 +4,19 @@ Simple Bootstrap-Based CSS Work Needed
 
 I need two web pages styled based on [Twitter Bootstrap] (http://getbootstrap.com).  I have a working example based on Bootstrap 2.3, but I would like the new version to be simplified and based on Bootstrap 3.0.
 
-Scope:
+## Scope
 - Based on Twitter Bootstrap 3.0
 - All edits made in separate `main.css` file (ie, I do not what a replacement for Bootstrap; I want something that works on top of it.)
 - No javascript.
 - Webkit-compatible (ie, does not need to work on old version of IE)
 
-Required Skills:
+## Required Skills
 - CSS/HTML
 - Twitter Bootstrap
 - Jekyll
 - Git (on Github)
 
-Instructions:
-
+## Instructions
 The source code is on Github in a repo with two branches: `master` and `dev`.  The `master` branch is based on a Bootstrap 2.3 template with a lot of stuff I don't want/need, and the `dev` branch is basically the same content with less markup and no CSS.
 
 I need two layouts created: one for the home page, and one for a blog post page.  Both pages are based on the [Jekyll] (http://jekyllrb.com) framework.  In the current `dev` branch there are two layouts: default.html, which has the core
@@ -27,11 +26,9 @@ The basic task here is to make the `dev` branch homepage look like the `master` 
 
 As a final instruction, please include the code word 'minutia' as part of your submission.  I want to avoid bots and others who don't pay attention to detail; inclusion of this word will indicate to me you actually read through the full instructions.
 
-Source:
-
+## Source
 You can find the source code here at [this repo] (http://github.com/dbinetti/dbinetti.github.com).  To see a working version of the Bootstrap 2.3 version of the site you can go to http://dbinetti.com. To get started simply fork the repo and start working on the `dev` branch.  Send me a pull request with your edits when done.
 
-Quotes:
-
+## Quotes
 I am looking for a flat-rate quote.  Please read the instructions completely, view the resources if necessary and quote me the final out-the-door price with payment sent via PayPal.  Also please let me know when you can start and finish the job.  This is a very simple gig but I do have other work available if this goes well.
 
